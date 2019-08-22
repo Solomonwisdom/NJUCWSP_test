@@ -1,0 +1,8 @@
+{
+"command": "java -classpath /workspace/NJUCWSP_test/NJUCWSPTest/out/production/NJUCWSPTest:/workspace/NJUCWSP_test/NJUCWSPTest/NJUCWSP.jar Main",
+"image": "registry.cn-hangzhou.aliyuncs.com/njuicscn/openjdk:8u212-b04-jre",
+"datasets": [
+"cwsp-models"
+],
+"application_type": "Command"
+}
